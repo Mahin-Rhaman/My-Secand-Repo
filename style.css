@@ -3,5 +3,7 @@ color: blue;
 }
 p{
     background-color: cadetblue;
+    height:50px;
+    width: fit-content;
     color: black;
 }
